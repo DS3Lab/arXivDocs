@@ -1,8 +1,11 @@
 # arXivDocs dataset
-## arXivdocs datasets presented in [DocParser: Hierarchical Structure Parsing of Document Renderings](docparser.pdf)
+##   arXivdocs datasets presented in "DocParser: Hierarchical Structure Parsing of Document Renderings"
+[Updated paper](docparser.pdf)
 
+[DocParser repository](https://github.com/DS3Lab/DocParser/)
+
+##
 TBA
-
 
 
 ### Reference
