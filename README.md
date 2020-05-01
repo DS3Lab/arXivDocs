@@ -1,6 +1,6 @@
 # arXivDocs dataset
 ##   arXivdocs datasets presented in "DocParser: Hierarchical Structure Parsing of Document Renderings"
-[Updated paper](https://github.com/DS3Lab/DocParser/docparser.pdf)
+[Updated paper](https://github.com/DS3Lab/DocParser/blob/master/docparser.pdf)
 
 [DocParser repository](https://github.com/DS3Lab/DocParser/)
 
