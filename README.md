@@ -4,8 +4,8 @@
 [DocParser repository](https://github.com/DS3Lab/DocParser/)
 
 #### arXivDocs-target:
-	-Download link for the arXivDocs-target dataset:
-	https://drive.google.com/file/d/1qVR_mI2xBtgsUG0LWVJctygDzvkMYN7C/view?usp=sharing
+Download link for the arXivDocs-target dataset:
+https://drive.google.com/file/d/1qVR_mI2xBtgsUG0LWVJctygDzvkMYN7C/view?usp=sharing
 
 #### arXivDocs-weak: 
 TBA
